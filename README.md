@@ -29,3 +29,8 @@ I made a python script that allows to perform a binary search on a sorted list. 
 `https://diegolibonati.github.io/DiegoLibonatiWeb/#/projects?q=Binary$20search%20script`
 
 ## Video
+
+
+
+https://user-images.githubusercontent.com/99032604/199854535-891e68ee-ad2a-483f-b0ee-b706da9d99ed.mp4
+
