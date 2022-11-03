@@ -14,16 +14,6 @@ I made a python script that allows to perform a binary search on a sorted list. 
 
 1. Python
 
-## Galery
-
-![binary-search](https://raw.githubusercontent.com/DiegoLibonati/DiegoLibonatiWeb/main/data/projects/Python/Imagenes/binary search-0.jpg)
-
-![binary-search](https://raw.githubusercontent.com/DiegoLibonati/DiegoLibonatiWeb/main/data/projects/Python/Imagenes/binary search-1.jpg)
-
-![binary-search](https://raw.githubusercontent.com/DiegoLibonati/DiegoLibonatiWeb/main/data/projects/Python/Imagenes/binary search-2.jpg)
-
-![binary-search](https://raw.githubusercontent.com/DiegoLibonati/DiegoLibonatiWeb/main/data/projects/Python/Imagenes/binary search-3.jpg)
-
 ## Portfolio Link
 
 `https://diegolibonati.github.io/DiegoLibonatiWeb/#/projects?q=Binary$20search%20script`
