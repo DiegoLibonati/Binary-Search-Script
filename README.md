@@ -16,7 +16,7 @@ I made a python script that allows to perform a binary search on a sorted list. 
 
 ## Portfolio Link
 
-`https://diegolibonati.github.io/DiegoLibonatiWeb/#/projects?q=Binary$20search%20script`
+`https://diegolibonati.github.io/DiegoLibonatiWeb/#/projects?q=Binary$20Search%20Script`
 
 ## Video
 
